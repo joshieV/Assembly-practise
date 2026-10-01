@@ -1,0 +1,3 @@
+Putting myself through the last layer of hell... 
+
+Personal practice repo for x86 assembly programs.
